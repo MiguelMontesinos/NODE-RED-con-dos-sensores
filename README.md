@@ -21,7 +21,7 @@ Para realizar esta practica necesitas lo siguiente:
 1. Iniciar Simulador
 2. Visualizar los datos en el apartado de Dashboard del node-RED
 3. Subir y Bajar la distancia dando doble click al sensor ultrasonico o al dht 22
-4. 
+
 ## Librerías:
 
 1. Arduino Json
