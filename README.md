@@ -191,7 +191,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ## Conexión:
 
 ![image](https://github.com/MiguelMontesinos/NODE-RED-con-dos-sensores/blob/main/Captura%20de%20pantalla%202024-12-17%20220010.png?raw=true)
-![image](https://github.com/MiguelMontesinos/NODE-RED-con-dos-sensores/blob/main/Captura%20de%20pantalla%202024-12-20%20214712.png?raw=true)
+![image](https://github.com/MiguelMontesinos/NODE-RED-con-dos-sensores/blob/main/Captura%20de%20pantalla%202024-12-21%20085112.png?raw=true)
 
 
 ## Resultados:
