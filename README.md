@@ -177,7 +177,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
    
 
     String output;
-    
+     
     serializeJson(doc, output);
 
     Serial.print("Publish message: ");
