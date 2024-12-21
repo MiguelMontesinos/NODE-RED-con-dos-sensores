@@ -42,7 +42,7 @@ const int Trigger = 4;   //Pin digital 2 para el Trigger del sensor
 const int Echo = 0;   
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
-const char* mqtt_server = "35.172.255.228";
+const char* mqtt_server = "3.76.79.164";
 String username_mqtt="Miguel";
 String password_mqtt="12345678";
 
