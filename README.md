@@ -197,7 +197,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ## Resultados:
 
 Cuando funcione y Corra los valores serán mostrados en la pantalla de DashBoard, cada 2 segundos se actualizará, se muestran 3 gráficas tipo gauge (indicadores) y 3 de tipo chart (lineales)
-![image]()
+![image](https://github.com/MiguelMontesinos/NODE-RED-con-dos-sensores/blob/main/Captura%20de%20pantalla%202024-12-21%20091103.png?raw=true)
 
 ## Desarrollado por 
 
