@@ -1,7 +1,7 @@
 # NODE-RED-con-dos-sensores
 
 ## Practica con un sensor de temperatura y humedad como un sensor ultrasonico, en una placa de desarrollo ESP32 y comunicado en Node-RED. 
-Este repositorio muestra como podemos programar una ESP32 con los sensores DHT22 HC-SR04 y mostrar los datos optenidos en Node-RED.
+Este repositorio muestra como podemos programar una ESP32 con los sensores DHT22 HC-SR04 y mostrar los datos optenidos en Node-RED. 
 
 ## Descripción:
 
