@@ -183,7 +183,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
     Serial.print("Publish message: ");
     Serial.println(output);
     Serial.println(output.c_str());
-    client.publish("NOMBRERANDOM", output.c_str());
+    client.publish("PRACTICA7", output.c_str());
   }
 }
  ```
